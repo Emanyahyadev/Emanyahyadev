@@ -14,23 +14,11 @@ I am a passionate **Full-Stack Engineer** and **Certified Agentic AI Developer**
 
 ---
 
-## 🔭 I'm currently working on
-AI-driven workflow automation and intelligent chatbot solutions using tools like **n8n**, **LangChain**, and **OpenAI Agents SDK**. Building full-stack applications with AI integration to streamline business processes.
+Currently architecting production-ready AI automation systems and intelligent conversational agents using n8n, LangChain, and OpenAI Agents SDK. Specializing in full-stack development with integrated AI capabilities that drive measurable business outcomes—from 70% increases in organic traffic to 60% improvements in client engagement. Expertise in spec-driven development and AI-native software architecture, building digital FTEs that autonomously handle complex business workflows.
 
-## 👯 I'm looking to collaborate on
-Agentic AI projects, workflow automation systems, and full-stack web applications. Open to working on innovative solutions that combine AI with practical business applications.
+Pursuing advanced studies in Robotics & Agentic AI Engineering at PIAIC-Panaversity alongside a BS in Data Science at Government College University, Faisalabad. Research focus includes AI agent architectures, LangGraph implementations, workflow orchestration, AI-native software development patterns, and spec-driven design methodologies for scalable automation systems.
 
-## 🤝 I'm looking for help with
-Advanced AI agent architectures, scaling production-ready AI applications, and exploring cutting-edge tools in the agentic AI space.
-
-## 🌱 I'm currently learning
-**Robotics & Agentic AI Engineering** through PIAIC-Panaversity, focusing on AI agents, LangGraph, workflow orchestration, and AI-native software development while pursuing my **BS in Data Science** at Government College University, Faisalabad.
-
-## 💬 Ask me about
-Full-stack development (MERN stack), workflow automation with n8n/Zapier, building custom chatbots, API integrations, SEO optimization, prompt engineering, or transitioning from web development to AI engineering.
-
-## ⚡ Fun fact
-I started my tech journey in digital marketing and SEO, which taught me how to understand user behavior—now I build AI agents that can predict and respond to those behaviors automatically!
+Proven track record delivering enterprise solutions: AI-powered task management systems for CA firms, automated SEO platforms with content generation capabilities, and WhatsApp business agents handling customer interactions at scale. Experience spans the complete development lifecycle from requirements gathering to deployment and optimization, with focus on building autonomous digital FTEs that reduce operational overhead and improve process efficiency.
 
 ---
 
@@ -93,41 +81,67 @@ I started my tech journey in digital marketing and SEO, which taught me how to u
 
 ## 🚀 Featured Projects
 
-### 🤖 AI-Based CA Firm Task Management System
-Built a Full-stack CA Firm Task Management System to track firm deliverables, utilizing **PostgreSQL** for real-time data handling. Engineered an embedded AI Smart assistant that interprets user commands to automatically execute system tasks like tracking progress of employees, clients work, status of tasks, generating invoices or assigning work, reducing manual data entry.
+### 🏢 CA Firm Agentic AI-Based Workspace Management System
+**🔗 [ca-taskmanager.agentvidia.com](https://ca-taskmanager.agentvidia.com)**
 
-**Tech Stack:** MERN Stack, PostgreSQL, AI Integration, Natural Language Processing
+Enterprise-grade workspace management platform for chartered accountancy firms. Built with full-stack architecture utilizing **PostgreSQL** for real-time data handling and agentic AI capabilities. Features an embedded AI Smart assistant that interprets natural language commands to autonomously execute system tasks—tracking employee progress, managing client work, monitoring task status, generating invoices, and assigning deliverables. Significantly reduces manual data entry and operational overhead.
+
+**Tech Stack:** MERN Stack, PostgreSQL, OpenAI Integration, Natural Language Processing, Agentic AI Architecture
+
+---
+
+### 🤖 CA Chatbot – Intelligent Client Assistant
+AI-powered conversational agent designed specifically for chartered accountancy firms. Handles client inquiries, provides instant responses to common questions, schedules appointments, and delivers personalized financial information—enabling 24/7 client support while reducing workload on accounting staff.
+
+**Tech Stack:** LangChain, OpenAI, n8n, React, Conversational AI
 
 ---
 
 ### 🔍 RankWizard – AI-Powered SEO & Content Generation Platform
-Developed a comprehensive AI-driven platform for Website Analysis, SEO insights, and Content Creation. Features include:
-- Generate website rankings and backlink reports by pasting a URL
-- Produce high-quality blog articles on any topic using AI
-- Convert generated content into audio/podcast format for multimedia outreach
+Comprehensive AI-driven platform for website analysis, SEO insights, and automated content creation. Features include:
+- Real-time website rankings and backlink analysis via URL input
+- AI-generated blog articles optimized for search engines
+- Content-to-audio conversion for podcast and multimedia distribution
+- Automated SEO recommendations and competitor analysis
 
-**Tech Stack:** Full-Stack Technologies, AI Integration, SEO APIs, Text-to-Speech
+**Tech Stack:** Full-Stack Technologies, AI Integration, SEO APIs, Text-to-Speech, Web Scraping
 
 ---
 
-### 📧 Email Assistant – Muaz Textile
-Developed an automated email assistant to help manage business communications, simplify client interactions, and ensure timely responses.
+### 🔧 Khaleejrepair.com
+**🔗 [khaleejrepair.com](https://khaleejrepair.com)**
 
-**Tech Stack:** n8n, React, Email APIs
+Full-featured service management platform for repair and maintenance operations. Streamlines customer requests, technician assignments, and service tracking with an intuitive interface designed for operational efficiency.
+
+**Tech Stack:** Full-Stack Web Development, Database Management, Responsive Design
+
+---
+
+### 🐔 Poultry Management System
+Enterprise solution for poultry farm operations, tracking inventory, feed management, health monitoring, and production metrics. Provides comprehensive analytics and reporting capabilities to optimize farm productivity and resource allocation.
+
+**Tech Stack:** MERN Stack, Data Analytics, Real-time Monitoring, Dashboard Visualization
 
 ---
 
 ### 📦 Parcel Management System – Muaz Textile
-Built a user-friendly system to track shipments, manage deliveries, and streamline day-to-day parcel operations.
+Production-ready logistics platform for tracking shipments, managing deliveries, and streamlining parcel operations. Features automated status updates, delivery scheduling, and comprehensive tracking capabilities for improved supply chain visibility.
 
-**Tech Stack:** MERN Stack (MongoDB, Express.js, React.js, Node.js)
+**Tech Stack:** MERN Stack (MongoDB, Express.js, React.js, Node.js), RESTful APIs
+
+---
+
+### 📧 Email Assistant – Muaz Textile
+Automated email management system with AI-driven response generation. Handles business communications, client interactions, and ensures timely follow-ups. Integrates with existing email infrastructure to provide intelligent email categorization and automated responses.
+
+**Tech Stack:** n8n, React, Email APIs, Workflow Automation, AI Integration
 
 ---
 
 ### 📚 Study Agent – Students' Inn
-Developed an automated assistant to help faculty manage student queries, schedules, and learning resources efficiently.
+AI-powered educational assistant automating faculty workflows and student support. Manages student queries, schedules, learning resources, and administrative tasks. Provides instant responses to common questions and intelligent routing for complex inquiries.
 
-**Tech Stack:** n8n, React, Workflow Automation
+**Tech Stack:** n8n, React, Workflow Automation, AI Agents, Educational Technology
 
 ---
 
