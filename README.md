@@ -179,11 +179,6 @@ AI-powered educational assistant automating faculty workflows and student suppor
 
 ---
 
-## 📈 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=Emanyahyadev&color=blueviolet&style=for-the-badge)
-
----
 
 <div align="center">
   
