@@ -65,19 +65,6 @@ Proven track record delivering enterprise solutions: AI-powered task management 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Eman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emanyahyadev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Emanyahyadev&theme=radical&hide_border=true&background=0D1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emanyahyadev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-</div>
-
----
 
 ## 🚀 Featured Projects
 
@@ -99,6 +86,16 @@ Enterprise-grade workspace management platform for chartered accountancy firms. 
 
 ---
 
+### 🔧 Khaleejrepair.com
+**🔗 [khaleejrepair.com](https://khaleejrepair.com)**
+
+Full-featured service management platform for repair and maintenance operations. Streamlines customer requests, technician assignments, and service tracking with an intuitive interface designed for operational efficiency.
+
+**Tech Stack:** Full-Stack Web Development, Database Management, Responsive Design
+
+
+---
+
 ### 🤖 CA Chatbot – Intelligent Client Assistant
 AI-powered conversational agent designed specifically for chartered accountancy firms. Handles client inquiries, provides instant responses to common questions, schedules appointments, and delivers personalized financial information—enabling 24/7 client support while reducing workload on accounting staff.
 
@@ -117,14 +114,6 @@ Comprehensive AI-driven platform for website analysis, SEO insights, and automat
 
 ---
 
-### 🔧 Khaleejrepair.com
-**🔗 [khaleejrepair.com](https://khaleejrepair.com)**
-
-Full-featured service management platform for repair and maintenance operations. Streamlines customer requests, technician assignments, and service tracking with an intuitive interface designed for operational efficiency.
-
-**Tech Stack:** Full-Stack Web Development, Database Management, Responsive Design
-
----
 
 ### 🐔 Poultry Management System
 Enterprise solution for poultry farm operations, tracking inventory, feed management, health monitoring, and production metrics. Provides comprehensive analytics and reporting capabilities to optimize farm productivity and resource allocation.
