@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Certified+Agentic+AI+Developer;Workflow+Automation+Specialist;AI-Driven+Solutions+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Agentic+AI+Developer;Manufacturing+Digital+FTEs;Full-Stack+Engineer;Workflow+Automation+Specialist;AI-Driven+Solutions+Builder)](https://git.io/typing-svg)
 
 </div>
 
@@ -30,7 +30,7 @@ Proven track record delivering enterprise solutions: AI-powered task management 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-**Tools:** n8n • OpenAI Agents SDK • LangGraph • LangChain • Zapier • Make • Prompt Engineering • Context Engineering
+**Tools & Expertise:** n8n • OpenAI Agents SDK • LangGraph • LangChain • Zapier • Make • Prompt Engineering • Context Engineering • Agentic AI Development • Digital FTE Manufacturing • Spec-Driven Development • AI-Native Software Development
 
 ### 💻 Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -80,6 +80,15 @@ Proven track record delivering enterprise solutions: AI-powered task management 
 ---
 
 ## 🚀 Featured Projects
+
+### 🏢 Agentvidia – AI Solutions Platform
+**🔗 [agentvidia.com](https://agentvidia.com)**
+
+Flagship AI solutions platform specializing in agentic AI development and digital FTE manufacturing. Delivers enterprise-grade automation systems, intelligent agents, and workflow optimization solutions for businesses seeking to scale operations through AI-powered digital workforce.
+
+**Tech Stack:** Full-Stack Development, Agentic AI Architecture, Multi-Agent Systems, Enterprise Solutions
+
+---
 
 ### 🏢 CA Firm Agentic AI-Based Workspace Management System
 **🔗 [ca-taskmanager.agentvidia.com](https://ca-taskmanager.agentvidia.com)**
