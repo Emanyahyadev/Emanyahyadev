@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Eman Yahya!
+# Hi, I'm Eman Yahya 👋
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Agentic+AI+Developer;Manufacturing+Digital+FTEs;Full-Stack+Engineer;Workflow+Automation+Specialist;AI-Driven+Solutions+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2E9EFF&center=true&vCenter=true&width=700&lines=Agentic+AI+Developer+%7C+Manufacturing+Digital+FTEs;Full-Stack+Engineer+%7C+AI+Solutions+Architect;Workflow+Automation+Specialist;Building+Production-Ready+AI+Systems)](https://git.io/typing-svg)
 
 </div>
 
